@@ -28,7 +28,7 @@ const WelcomeScreen = ({ onWelcomeComplete }) => {
   };
 
   const currentColors = colors[theme] || colors.dark;
-  const portfolioUrl = "www.devlyhub.in";
+  const portfolioUrl = "https://freelancing-portfolio-dusky.vercel.app/";
   const welcomeMessages = [
     "Crafting digital experiences",
     "Software Engineer",
